@@ -23,7 +23,8 @@ Be sure to extract your keys files if you only have a .zip!
 
 - Open the Ryujinx.exe file. 
 >[!NOTE]
-> Note that it's gonna open a terminal too, THAT'S COMPLETELY NORMAL as it uses that to collects infos in case the emulator crashes when playing.
+> Note that it's gonna open a terminal too, THAT'S COMPLETELY NORMAL as it uses that to collect infos in case the emulator crashes when playing.
+
 It's gonna show a pop-up telling you that keys are missing.
 
 ![keys not found](https://private-user-images.githubusercontent.com/233430140/566330883-eb445d1c-7fe8-4c49-a7e3-4fcc5523cc6f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MzI5NjgsIm5iZiI6MTc3MzkzMjY2OCwicGF0aCI6Ii8yMzM0MzAxNDAvNTY2MzMwODgzLWViNDQ1ZDFjLTdmZTgtNGM0OS1hN2UzLTRmY2M1NTIzY2M2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQxNTA0MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNmJlMjNmNzVkOWNkODRjYzdhMDk0OTc3Yzg1YTlmOTJkMTgxMzhkY2ViZDMyYzhkOGY2OTM4M2FiYjI5NTRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tiEO_pVwjPr71q5Ec_H2YvfaT3RXmHyCU-g8pDdowGY)
