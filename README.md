@@ -85,7 +85,7 @@ I'll cover how to move your progress from any Yuzu-based emulator (Eden or Citro
 - Click "From Eden"
 If you get no errors and a pop-up says "successfully linked" then you're good to go!
 
-WORKING METHOD
+### WORKING METHOD
 
 (In Eden)
 - Right click on Animal Crossing and click on "Open Save Data Location". This will open a new window with all your ACNH save files.
