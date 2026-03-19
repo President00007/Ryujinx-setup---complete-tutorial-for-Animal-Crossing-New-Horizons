@@ -2,7 +2,7 @@ In this tutorial, i'll explain in detail how to fully set up your Ryujinx emulat
 If you came from the [Ryujinx setup tool] you can skip to [the "setup save" section of this readme](#Moving-your-animal-crossing:-new-horizons-save-from-a-yuzu-based-emulator)
 
 # Installing the emulator program
-- The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx siste](https://github.com/Ryubing) and select the red "canary" option as in this image.
+- The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx site](https://github.com/Ryubing) and select the red "canary" option as in this image.
 ![canary version selection](<img width="1060" height="300" alt="canary" src="https://github.com/user-attachments/assets/a254be05-9869-4a68-8e5c-f8221e0b3666" />)
 It should download a file called "ryujinx-canary-VERSION-OPERATINGSYSTEM.zip" (as of writing the latest is 1.3.265)
 - Now extract the zip file somewhere you remember. Now you have the emulator ready to run, but it still needs Firmware and keys
