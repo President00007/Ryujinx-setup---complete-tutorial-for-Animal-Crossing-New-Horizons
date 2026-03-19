@@ -70,8 +70,10 @@ I'll cover how to move your progress from any Yuzu-based emulator (Eden or Citro
 
 > [!CAUTION]
 > SKIP THIS METHOD AS IT IS NOT WORKING AT THE MOMENT
+
 (In Ryujinx)
 - Right click on Animal Crossing and click on "Open Device Save Directory". This will create the shortcut to the save files of the game. You can close the window that appeared.
+
 (In Eden)
 - Right click on Animal Crossing and click on "Link to Ryujinx" and if you followed these steps correctly you'll see this pop-up:
 
@@ -81,9 +83,11 @@ I'll cover how to move your progress from any Yuzu-based emulator (Eden or Citro
 If you get no errors and a pop-up says "successfully linked" then you're good to go!
 
 WORKING METHOD
+
 (In Eden)
 - Right click on Animal Crossing and click on "Open Save Data Location". This will open a new window with all your ACNH save files.
 - Move all of the files you see somewhere you can remember, we're going to move them into the Ryujinx folder.
+
 (In Ryujinx)
 - Right click on Animal Crossing and click on "Open Device Save Directory". This will create the shortcut to the save files of the game.
 - Move the save files you've backed up into the Ryujinx directory. It's going to look like this:
