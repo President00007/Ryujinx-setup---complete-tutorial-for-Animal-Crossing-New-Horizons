@@ -33,6 +33,7 @@ It's gonna show a pop-up telling you that keys are missing.
 - Click on "Action" above, and with your cursor on "Install keys	>".
 
 ![keys installation step](https://private-user-images.githubusercontent.com/233430140/566330891-0459e07c-5904-4ba1-b752-069b4a1ecb08.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MzI5NjgsIm5iZiI6MTc3MzkzMjY2OCwicGF0aCI6Ii8yMzM0MzAxNDAvNTY2MzMwODkxLTA0NTllMDdjLTU5MDQtNGJhMS1iNzUyLTA2OWI0YTFlY2IwOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQxNTA0MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02Yzg4MzQ4Mzc4ZmVkNjcyZTU4ZmFjYTMyOWQ0NTcwZTNiYTU2ZTk3NmI0NTNiODQzN2E0MjFkMGZjNmM2MmU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8oFKMmXZsqoCWJTvJLt_f7XKBD13aSfiEFHUWITOLqI)
+
 You can now choose either the installation through the direct file or through the "Prod keys" folder. We're gonna cover the second option.
 
 - A new window will appear, you'll have to find the directory of your prodkeys folder; when you've found it, single-click it to select it, and click on "Select folder" below.
@@ -47,6 +48,7 @@ Now your keys are setup! Repeat this exact process but with files related to "Fi
 
 # Setting up your games, DLC and Updates folder.
 Before doing that, be sure to re-order your switch game files, with DLCs and Updates placed in their folders. This is my setup recommendation:
+
 ![games setup](https://private-user-images.githubusercontent.com/233430140/566330880-60e4a63a-d543-4825-8e8c-5661ca0c7713.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MzI5NjgsIm5iZiI6MTc3MzkzMjY2OCwicGF0aCI6Ii8yMzM0MzAxNDAvNTY2MzMwODgwLTYwZTRhNjNhLWQ1NDMtNDgyNS04ZThjLTU2NjFjYTBjNzcxMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQxNTA0MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NGEzZjFlYTIyZDdmZjM2NzQ4NjI4MzJhODg1NDJkY2M0ZDM1MDU2NjU5NDhhNWNmYzkxZWE0MDllODhlNzEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.D8MvSMglKXPmF0GnKxdtqIGz1o9Dd7QAw_pha8dROPk)
 
 - Go into the settings, from the "Options" tab above as in this image
@@ -98,7 +100,8 @@ WORKING METHOD
 If you've done everything correctly you'll be able to see this when opening the game!
 
 ![second success](https://private-user-images.githubusercontent.com/233430140/566330890-db617fa4-6050-41b5-ac8c-e16a9b2ea9bd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MzMyMTksIm5iZiI6MTc3MzkzMjkxOSwicGF0aCI6Ii8yMzM0MzAxNDAvNTY2MzMwODkwLWRiNjE3ZmE0LTYwNTAtNDFiNS1hYzhjLWUxNmE5YjJlYTliZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQxNTA4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNmUxMDAwNjAwNDVhMjU1Y2Y5NTU2YzA0YTEzMmFhM2Q4MzFiN2RkOGJkNmZkMTJkZGIxYzljMzNjNWYwMTMyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xd8UK6S9tDU58cvT_BEwpXmlEqXoeYowJY7yLSn4j1g)
+
 You'll be able to see your resident's data, who's linked to the save file. Follow the in-game instructions and you're all set!
 
 > [!IMPORTANT]
-> If you're not there already, we'd appreciate if you joined our [Animal Crossing Discord server](https://discord.gg/actreasurehub).
+> If you're not there already, and if you consider our effort, we would really appreciate if you joined our [Animal Crossing Discord server](https://discord.gg/actreasurehub). We have a really cozy and nice community, owned by @melymels94, with the help of the co-owner @agusguzi and our head mod [Kristy](https://github.com/rice-krispy2). We'll be very happy to see new faces around :D
