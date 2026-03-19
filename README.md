@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> If you're not there already, and if you consider our effort, we would really appreciate if you joined our [Animal Crossing Discord server](https://discord.gg/actreasurehub). We have a really cozy and nice community, owned by @melymels94, with the help of the co-owner @agusguzi and our head mod [Kristy](https://github.com/rice-krispy2). We'll be very happy to see new faces around :D
+
 In this tutorial, i'll explain in detail how to fully set up your Ryujinx emulator.
 
 If you came from the [Ryujinx Installer Tool](https://github.com/rice-krispy2/ACTH-Installer) you can skip to the ["setup save" section of this readme](https://github.com/President00007/Ryujinx-setup---complete-tutorial-for-Animal-Crossing-New-Horizons/blob/main/README.md#moving-your-animal-crossing-new-horizons-save-from-a-yuzu-based-emulator)
@@ -107,6 +110,4 @@ If you've done everything correctly you'll be able to see this when opening the 
 ![success 2](https://github.com/user-attachments/assets/83c6a773-073f-4a8e-839e-92bb18b0d7c3)
 
 You'll be able to see your resident's data, who's linked to the save file. Follow the in-game instructions and you're all set!
-
-> [!IMPORTANT]
-> If you're not there already, and if you consider our effort, we would really appreciate if you joined our [Animal Crossing Discord server](https://discord.gg/actreasurehub). We have a really cozy and nice community, owned by @melymels94, with the help of the co-owner @agusguzi and our head mod [Kristy](https://github.com/rice-krispy2). We'll be very happy to see new faces around :D
+Thank you for following my tutorial! I hope it covered everything you needed! :D
