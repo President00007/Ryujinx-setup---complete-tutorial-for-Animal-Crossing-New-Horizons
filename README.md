@@ -51,7 +51,8 @@ Before doing that, be sure to re-order your switch game files, with DLCs and Upd
 - Go into the settings, from the "Options" tab above as in this image
 
 ![settings](https://private-user-images.githubusercontent.com/233430140/566330886-1f3dfbb3-6381-407b-b5c1-7934ac634061.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MzMyMTksIm5iZiI6MTc3MzkzMjkxOSwicGF0aCI6Ii8yMzM0MzAxNDAvNTY2MzMwODg2LTFmM2RmYmIzLTYzODEtNDA3Yi1iNWMxLTc5MzRhYzYzNDA2MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQxNTA4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOGQwMDJlMTBhZTYyNjMxNGMxYjI4ZTZhOTM1NzE5MmE5Y2Y3NDliNGIwZWMwMTYyN2I5NTJmMDVmZmM4MTgxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JYCaCicJHItcPQ8ghv5GulzBb8ii7vyPC_Y02QB74iI)
-	It'll open a new window
+
+> It'll open a new window
 - From the new window, choose "Add" in the "Game Directories" section, there will be another window and from there you'll have to find your switch games folder. Once you've found it, single-click on it to select it, and click on "Select folder" below.
 
 - Do the exact same thing for DLCs and Updates from the "Autoload DLC/Update Directories" section.
