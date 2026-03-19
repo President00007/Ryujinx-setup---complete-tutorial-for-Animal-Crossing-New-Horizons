@@ -52,7 +52,7 @@ when you're done, it's gonna look like this
 - Click on "Apply" below and then on "OK". If it shows the message as the message below, you've successfully set it up and ready to play!
 ![success](<img width="1139" height="669" alt="success" src="https://github.com/user-attachments/assets/14694a08-b1fc-4a01-b543-1c9ba879141d" />)
 
-Moving your Animal Crossing: New Horizons save from a Yuzu-based emulator
+# Moving your Animal Crossing: New Horizons save from a Yuzu-based emulator
 
 I'll cover how to move your progress from any Yuzu-based emulator (Eden or Citron in most cases) to Ryujinx. The process from the other emulator is the exact same for every possible kind you've been using, but I'll use Eden as an example. 
 
