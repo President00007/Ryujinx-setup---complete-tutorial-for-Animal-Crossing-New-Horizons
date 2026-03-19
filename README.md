@@ -1,6 +1,8 @@
 In this tutorial, i'll explain in detail how to fully set up your Ryujinx emulator
 If you came from the [Ryujinx setup tool] you can skip to the ["setup save" section of this readme](https://github.com/President00007/Ryujinx-setup---complete-tutorial-for-Animal-Crossing-New-Horizons/blob/main/README.md#moving-your-animal-crossing-new-horizons-save-from-a-yuzu-based-emulator)
 
+I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
+
 # Installing the emulator program
 - The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx site](https://github.com/Ryubing) and select the red "canary" option as in this image.
 
