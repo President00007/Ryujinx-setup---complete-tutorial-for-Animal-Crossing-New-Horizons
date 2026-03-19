@@ -3,7 +3,7 @@ If you came from the [Ryujinx setup tool] you can skip to the ["setup save" sect
 
 # Installing the emulator program
 - The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx site](https://github.com/Ryubing) and select the red "canary" option as in this image.
-![canary version selection](<img width="1060" height="300" alt="canary" src="https://github.com/user-attachments/assets/a254be05-9869-4a68-8e5c-f8221e0b3666" />)
+![canary version selection](https://private-user-images.githubusercontent.com/233430140/566330881-180731db-3f47-43b6-ac15-f0066d532313.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MzI5NjgsIm5iZiI6MTc3MzkzMjY2OCwicGF0aCI6Ii8yMzM0MzAxNDAvNTY2MzMwODgxLTE4MDczMWRiLTNmNDctNDNiNi1hYzE1LWYwMDY2ZDUzMjMxMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQxNTA0MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMWYxZDhmNmQ4Nzk5NmZkNjA2NWY2Y2I0MjFjN2E3MGQ0YTY3YzZmOWJhYWQ5YjQyZDMzYzBmZjkzODQ1OTBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EGLW3-l7T6I08QK8NcCdoppgmtYTHSQn9-saoE58C28)
 It should download a file called "ryujinx-canary-VERSION-OPERATINGSYSTEM.zip" (as of writing the latest is 1.3.265)
 - Now extract the zip file somewhere you remember. Now you have the emulator ready to run, but it still needs Firmware and keys
 
