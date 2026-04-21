@@ -10,7 +10,7 @@ I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTOR
 # Installing the emulator program
 - The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx site](https://git.ryujinx.app/projects/Ryubing), scroll down a bit until you find the "Latest build" section and be sure to click on the SECOND "here" link as in the image below.
 
-![Canary][https://github.com/user-attachments/assets/fc07db92-2e4a-4802-9b3f-45968b183dee]
+![Canary](https://github.com/user-attachments/assets/fc07db92-2e4a-4802-9b3f-45968b183dee)
 
 
 You should be able to find and download a file called "ryujinx-canary-VERSION-OPERATINGSYSTEM.zip" (as of writing the latest is 1.3.272)
