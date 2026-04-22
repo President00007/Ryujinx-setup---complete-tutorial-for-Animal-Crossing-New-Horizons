@@ -8,12 +8,11 @@ If you came from the [Ryujinx Installer Tool](https://github.com/rice-krispy2/AC
 I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
 
 # Installing the emulator program
-- The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx site](https://git.ryujinx.app/projects/Ryubing), scroll down a bit until you find the "Latest build" section and be sure to click on the SECOND "here" link as in the image below.
+- The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx site](https://github.com/Ryubing) and select the red "canary" option as in this image.
 
-![Canary](https://github.com/user-attachments/assets/fc07db92-2e4a-4802-9b3f-45968b183dee)
+![canary](https://github.com/user-attachments/assets/39ad3fce-fd39-4c24-85fa-09b94dc0ed74)
 
-
-You should be able to find and download a file called "ryujinx-canary-VERSION-OPERATINGSYSTEM.zip" (as of writing the latest is 1.3.272)
+You should be able to find and download a file called "ryujinx-canary-VERSION-OPERATINGSYSTEM.zip" (as of writing the latest is 1.3.265)
 - Now extract the zip file somewhere you remember. Now you have the emulator ready to run, but it still needs Firmware and keys
 >[!TIP]
 > This is completely optional, but you can easily make a desktop shortcut of the emulator by:
