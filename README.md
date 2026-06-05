@@ -8,7 +8,7 @@ If you came from the [Ryujinx Installer Tool](https://github.com/rice-krispy2/AC
 I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
 
 # Installing the emulator program
-- The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx site](https://github.com/Ryubing) and select the red "canary" option as in this image.
+- The first thing you need is, of course, the emulator. Be sure to go into [the official Ryujinx site](https://git.ryujinx.app/Ryubing) and select the red "canary" option as in this image.
 
 ![canary](https://github.com/user-attachments/assets/39ad3fce-fd39-4c24-85fa-09b94dc0ed74)
 
