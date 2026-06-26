@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> If you're not there already, and if you consider our effort, we would really appreciate if you joined our [Animal Crossing Discord server](https://discord.gg/actreasurehub). We have a really cozy and nice community, owned by @melymels94, with the help of the co-owner @agusguzi and our head mod [Kristy](https://github.com/rice-krispy2). We'll be very happy to see new faces around :D
+> If you're not there already, and if you consider our effort, we would really appreciate if you joined our [Animal Crossing Discord server](https://discord.gg/actreasurehub). We have a really cozy and nice community, owned by @melymels94, with the help of the co-owner [Kristy](https://github.com/rice-krispy2), as well as the rest of our welcoming staff! We'll be very happy to see new faces around :D
 
-In this tutorial, i'll explain in detail how to fully set up your Ryujinx emulator.
+In this tutorial, I'll explain in detail how to fully set up your Ryujinx emulator.
 
 If you came from the [Ryujinx Installer Tool](https://github.com/rice-krispy2/ACTH-Installer) you can skip to the ["setup save" section of this readme](https://github.com/President00007/Ryujinx-setup---complete-tutorial-for-Animal-Crossing-New-Horizons/blob/main/README.md#moving-your-animal-crossing-new-horizons-save-from-a-yuzu-based-emulator)
 
@@ -13,7 +13,7 @@ I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTOR
 ![canary](https://github.com/user-attachments/assets/39ad3fce-fd39-4c24-85fa-09b94dc0ed74)
 
 You should be able to find and download a file called "ryujinx-canary-VERSION-OPERATINGSYSTEM.zip" (as of writing the latest is 1.3.265)
-- Now extract the zip file somewhere you remember. Now you have the emulator ready to run, but it still needs Firmware and keys
+- Now extract the zip file somewhere you remember. You have the emulator ready to run! But it still needs Firmware and keys...
 >[!TIP]
 > This is completely optional, but you can easily make a desktop shortcut of the emulator by:
 >	- Right clicking on the .exe
@@ -29,11 +29,11 @@ Be sure to extract your keys files if you only have a .zip!
 >[!NOTE]
 > Note that it's gonna open a terminal too, THAT'S COMPLETELY NORMAL as it uses that to collect infos in case the emulator crashes when playing.
 
-It's gonna show a pop-up telling you that keys are missing.
+It's going to show a pop-up telling you that keys are missing.
 
 ![no keys found](https://github.com/user-attachments/assets/64c14d16-b2ec-4997-8e89-c62ebeb70697)
 
-- Click on "OK" anyway, as we're gonna install them.
+- Click on "OK" anyway, as we're going to install them.
 
 - Click on "Action" above, and with your cursor on "Install keys	>".
 
@@ -46,14 +46,14 @@ You can now choose either the installation through the direct file or through th
 ![prodkeys selection](https://github.com/user-attachments/assets/aeefc1b1-d173-4321-980d-37234b61770a)
 
 > [!NOTE]
-> This image is in Italian, but it should look like this.
+> This image is in Italian, but it should still look like this.
 
 Now your keys are setup! Repeat this exact process but with files related to "Firmware" instead. Note that in this case you'll be able to keep your files as a .zip, the reason is explained through the image below.
 
 ![install firmware](https://github.com/user-attachments/assets/51b2b2e5-48d1-4ccc-bfb5-3d2c1147b5a2)
 
 # Setting up your games, DLC and Updates folder.
-Before doing that, be sure to re-order your switch game files, with DLCs and Updates placed in their folders. This is my setup recommendation:
+Before doing that, be sure to re-order your Switch games files, with DLCs and Updates placed in separated folders. This is my setup recommendation:
 
 ![games setup](https://github.com/user-attachments/assets/0f21bd21-097c-4262-b2f0-2793f28a3428)
 
@@ -62,7 +62,7 @@ Before doing that, be sure to re-order your switch game files, with DLCs and Upd
 ![settings](https://github.com/user-attachments/assets/d21db783-986d-4b6b-ab6a-622e94e85e0b)
 
 > It'll open a new window
-- From the new window, choose "Add" in the "Game Directories" section, there will be another window and from there you'll have to find your switch games folder. Once you've found it, single-click on it to select it, and click on "Select folder" below.
+- From the new window, choose "Add" in the "Game Directories" section, there will be another window and from there you'll have to find your Switch games folder. Once you've found it, single-click on it to select it, and click on "Select folder" below.
 
 - Do the exact same thing for DLCs and Updates from the "Autoload DLC/Update Directories" section.
 when you're done, it's gonna look like this:
